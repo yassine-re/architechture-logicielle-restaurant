@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Page-1" id="wN5Z14EIOyjQku7rm_0h">
-    <mxGraphModel dx="4046" dy="2751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2508" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,13 +329,13 @@
         <mxCell id="iZztaELDfyKJ8rEz8eWO-92" edge="1" parent="1" source="iZztaELDfyKJ8rEz8eWO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="0ihA5YCGxI2O915e2RI4-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZztaELDfyKJ8rEz8eWO-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Commander Entrée" vertex="1">
+        <mxCell id="iZztaELDfyKJ8rEz8eWO-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Commander Entrée&lt;div&gt;quantité&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="110" y="810" as="geometry" />
         </mxCell>
         <mxCell id="iZztaELDfyKJ8rEz8eWO-90" edge="1" parent="1" source="iZztaELDfyKJ8rEz8eWO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="0ihA5YCGxI2O915e2RI4-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZztaELDfyKJ8rEz8eWO-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Commander Boisson" vertex="1">
+        <mxCell id="iZztaELDfyKJ8rEz8eWO-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Commander Boisson&lt;br&gt;quantité" vertex="1">
           <mxGeometry height="80" width="120" x="-850" y="800" as="geometry" />
         </mxCell>
         <mxCell id="iZztaELDfyKJ8rEz8eWO-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0,n" vertex="1">
@@ -365,7 +365,7 @@
         <mxCell id="iZztaELDfyKJ8rEz8eWO-104" edge="1" parent="1" source="iZztaELDfyKJ8rEz8eWO-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="0ihA5YCGxI2O915e2RI4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZztaELDfyKJ8rEz8eWO-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Régler" vertex="1">
+        <mxCell id="iZztaELDfyKJ8rEz8eWO-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;u&gt;Régler&lt;/u&gt;&lt;div&gt;montant_imputé&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="-145" y="595" as="geometry" />
         </mxCell>
         <mxCell id="iZztaELDfyKJ8rEz8eWO-103" edge="1" parent="1" source="0ihA5YCGxI2O915e2RI4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="iZztaELDfyKJ8rEz8eWO-102">
